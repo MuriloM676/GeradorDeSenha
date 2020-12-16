@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/MuriloM676/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/MuriloM676/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="Assets/show.png" alt="exemplo imagem">
 
 > Programa feito em python usando lib PySimpleGUI que recolhe algumas informações e cria uma senha segura. NENHUM DADO É ARMAZENADO !!
 ### Ajustes e melhorias
