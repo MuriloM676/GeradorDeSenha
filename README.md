@@ -17,7 +17,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Terminar projeto
 - [x] Adcionar README
-- [ ] Subir projeto pro github
+- [x] Subir projeto pro github
+- [x] Finalização
 
 ## 💻 Pré-requisitos
 
